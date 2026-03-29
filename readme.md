@@ -1,3 +1,11 @@
+## Install Python from (Windows)
+[Download](https://www.python.org/ftp/python/pymanager/python-manager-26.0.msix)
+
+## Clone repo from (Link)
+```bash
+git clone https://github.com/Ashish-rajpoot/sir_eci_photo_verify.git
+```
+> Note: Open folder in vs code & Run below cmd's
 ## Create Virtual Environment
 ```bash
 python -m venv venv

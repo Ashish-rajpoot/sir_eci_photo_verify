@@ -48,9 +48,14 @@ pip install --upgrade selenium
 ```
 
 # Full Command List
+### Run 1: Cmd's
 ```bash
 git clone https://github.com/Ashish-rajpoot/sir_eci_photo_verify.git
 cd sir_eci_photo_verify
+code .
+```
+### Run 2: Cmd's
+```bash
 python -m venv venv
 venv\Scripts\activate
 pip install selenium

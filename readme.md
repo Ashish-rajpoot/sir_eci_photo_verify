@@ -56,6 +56,7 @@ code .
 ```
 ### Run 2: Cmd's
 ```bash
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 python -m venv venv
 venv\Scripts\activate
 pip install selenium

@@ -202,7 +202,9 @@ def process_current_page_rows(driver, wait, value):
                     )
                 )
                 time.sleep(2)
-                submit.click()
+                # UN-COMMENT IF YOU NEED TO AUTO CLICK
+                # submit.click()
+                
                 # wait.until(EC.invisibility_of_element_located(SearchPageLocators.POPUP))
                 # print(f"{value} | row {row_index} | popup closed")
 

@@ -65,3 +65,5 @@ pip install openpyxl
 pip freeze > requirements.txt
 python main.py
 ```
+# NOTES:
+If you want to auto submit then uncomment line no `206` in `Action.py` file

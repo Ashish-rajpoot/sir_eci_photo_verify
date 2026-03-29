@@ -61,5 +61,7 @@ python -m venv venv
 venv\Scripts\activate
 pip install selenium
 pip install python-dotenv
+pip install openpyxl
 pip freeze > requirements.txt
+python main.py
 ```

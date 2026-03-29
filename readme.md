@@ -49,8 +49,8 @@ pip install --upgrade selenium
 
 # Full Command List
 ```bash
-mkdir selenium_project
-cd selenium_project
+git clone https://github.com/Ashish-rajpoot/sir_eci_photo_verify.git
+cd sir_eci_photo_verify
 python -m venv venv
 venv\Scripts\activate
 pip install selenium
